@@ -1,0 +1,14 @@
+.parent{
+    border: '1px solid black';
+    height : '300px';
+    width: '300px';
+    overflow: 'auto';
+    position: 'relative';
+    text-decoration-color: red;
+}
+
+.child{
+    width: '100%';
+    height: '650px';
+    background: 'linear-gradient(white, black)'
+}
